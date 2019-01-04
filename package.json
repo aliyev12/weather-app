@@ -1,0 +1,25 @@
+{
+  "name": "open-weather-app",
+  "version": "1.0.0",
+  "description": "This is a weather application that is based on information provided by Open Weather. Current version of the app is only able to search location in the US and only by zip codes.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aliyev12/weather-app.git"
+  },
+  "keywords": [
+    "weather"
+  ],
+  "author": "Abdul Aliyev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aliyev12/weather-app/issues"
+  },
+  "homepage": "https://github.com/aliyev12/weather-app#readme",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
